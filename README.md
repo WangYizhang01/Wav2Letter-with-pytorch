@@ -35,5 +35,11 @@ This will process the google speech commands audio data into 13 mfcc features wi
 python train.py --batch_size=256 --epochs=1000
 ```
 
+## Infer
+
+```bash
+python train.py --batch_size=256 --epochs=1000
+```
+
 ## refer
 https://github.com/LearnedVector/Wav2Letter
